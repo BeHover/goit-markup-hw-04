@@ -161,7 +161,7 @@ a:focus {
   color: var(--color-blue);
 }
 
-.contacts {
+.contacts-list {
   margin-left: auto;
   display: flex;
 }
