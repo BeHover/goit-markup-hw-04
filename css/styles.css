@@ -198,7 +198,7 @@ a:focus {
 .main {
   background-color: #2f303a;
   background: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
-    url("images/main-background.jpg");
+    url("../images/main-background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   padding: 200px 15px;
