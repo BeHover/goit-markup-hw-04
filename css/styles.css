@@ -379,8 +379,7 @@ button {
   max-width: 370px;
 }
 
-.project-link:hover,
-.project-link:focus {
+.project-link .project-link:hover, .project-link:focus {
   color: var(--color-dark);
 }
 
@@ -426,8 +425,7 @@ button {
   border-radius: 50%;
 }
 
-.social-link:hover,
-.social-link:focus {
+.social-link:hover, .social-link:focus {
   background-color: var(--color-blue);
 }
 
@@ -435,8 +433,7 @@ button {
   fill: #afb1b8;
 }
 
-.social-link:hover .social-icon,
-.social-link:focus .social-icon {
+.social-link:hover .social-icon, .social-link:focus .social-icon {
   fill: var(--color-white);
 }
 
@@ -466,7 +463,6 @@ button {
 .footer-item:not(:last-child) {
   margin-bottom: 9px;
 }
-
 
 .footer-address {
   font-style: normal;
